@@ -1,1 +1,37 @@
-
+.p1{
+  margin-top: 7px;
+  margin-left: 15px;
+}
+.p2{
+  margin-top: ;
+  margin-left: ;
+}
+.p3{
+  margin-top: 10px;
+  margin-left: ;
+}
+.img1{
+  border-color: dodgerblue;
+  margin-top: ;
+  margin-left: 100px;
+  height: 200px;
+  width: 200px;
+}
+.p7{
+  margin-left: 15px;
+}
+.img2{
+  height: 200px;
+  width: 250px;
+  margin-top: ;
+  margin-left: 90px;
+}
+.buttom{
+  margin-top: ;
+  margin-left: ;
+  height: 100px;
+  width: 150px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-width: 10px;
+}
